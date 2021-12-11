@@ -21,6 +21,7 @@ Neon.png  - Original art made by peekatchoo
 
 ### Licenced art
 BlueImposter.png - RDAKE45#7542
+Christmas.png - RDAKE45#7542
 Gandhi-sus.png - RDAKE45#7542
 PurpleImposter.jpg - RDAKE45#7542
 Imposter-AmogOS.png - mjdxp#3230
