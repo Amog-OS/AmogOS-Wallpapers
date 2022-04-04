@@ -26,3 +26,4 @@ Gandhi-sus.png - RDAKE45#7542
 PurpleImposter.jpg - RDAKE45#7542  
 Imposter-AmogOS.png - mjdxp#3230  
 Imposter-AmogOS-alt.png - mjdxp#3230  
+AmogOSFrostedGlassBlob.png - phuwit  
